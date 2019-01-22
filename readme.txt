@@ -6,3 +6,5 @@ The purpose of this assignment is to:
 2.Use your BRIDGES credentials in code.
 3.Upload a simple visualization to BRIDGES.
 4.Check if it all works.
+
+-Ravi Shankar
